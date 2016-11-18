@@ -44,11 +44,25 @@ body > nav > ul > li {
 body > nav li > a {
 	padding: 0.5em;
 }
-/* old */
+/* main */
 body > main {
-	margin: 0 auto;
-	max-width: 34em;
+	margin: 0 0;
 }
+body > main > article > * {
+	max-width: 34em;
+	margin-left: auto;
+	margin-right: auto;
+}
+body > main > article {
+	padding: 2em;
+}
+body > main > article > header > h1 {
+	text-align: center;
+}
+body > main > article > header > p {
+	display: none;
+}
+/* old */
 body > main > article > .self-link,
 body > footer > main > article > .self-link {
 	padding: 0;

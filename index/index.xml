@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>u10sil</title>
-    <link>http://u10sil.com/</link>
-    <description>Recent content on u10sil</description>
+    <title>Indexes on u10sil</title>
+    <link>http://u10sil.com/index/</link>
+    <description>Recent content in Indexes on u10sil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Nov 2016 20:26:58 +0100</lastBuildDate>
-    <atom:link href="http://u10sil.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Thank you</title>
-      <link>http://u10sil.com/response/message-received/</link>
-      <pubDate>Fri, 18 Nov 2016 20:26:58 +0100</pubDate>
-      
-      <guid>http://u10sil.com/response/message-received/</guid>
-      <description>&lt;p&gt;Thank you for your message. We will get in touch as soon as possible.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 18 Nov 2016 20:17:33 +0100</lastBuildDate>
+    <atom:link href="http://u10sil.com/index/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact</title>
