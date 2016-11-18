@@ -1,8 +1,50 @@
+/* header */
 body > header {
+	position: relative;
 	margin: 0 auto;
-	max-width: 34em;
+	width: 100%;
+	min-height: 100vh;
 	text-align: center;
 }
+body > header > h1 {
+	position: absolute;
+	top: 20vh;
+	left: 25%;
+	width: 50%;
+	margin: 0 auto;
+}
+body > header > h1 > a {
+		margin: 0 auto;
+		max-width: 10em;
+}
+body > header > h1 > a > img {
+	width: 100%;
+	height: auto;
+}
+body > header > p {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	padding: 1em;
+}
+/* nav */
+body > nav {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100vw;
+}
+body > nav > ul {
+	text-align: right;
+	margin: 1em 1em;
+}
+body > nav > ul > li {
+	display: inline;
+}
+body > nav li > a {
+	padding: 0.5em;
+}
+/* old */
 body > main {
 	margin: 0 auto;
 	max-width: 34em;

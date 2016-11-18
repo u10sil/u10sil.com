@@ -1,7 +1,7 @@
 {
-	"baseurl": "http://hugo-theme-html5.github.io/",
+	"baseurl": "http://u10sil.com/",
 	"languageCode": "en-US",
-	"title": "HTML5 Hugo Theme Example",
+	"title": "u10sil",
 	"MetaDataFormat": "json",
 	"blackfriday": {
 		"extensions": [
@@ -10,7 +10,7 @@
 	},
 	"theme": "hugo-theme-html5",
 	"params": {
-		"description": "Example of HTML5 Theme for Hugo",
+		"description": "Create your Business Software",
 		"logotype": "img/logotype.svg",
 		"css": [
 			"css/text.css",
@@ -20,8 +20,8 @@
 		],
 		"listmode": "title",
 		"frontpagemode": "title",
-		"frontpagesection": "article",
-		"navigationinheader": true,
+		"frontpagesection": "index",
+		"navigationinheader": false,
 		"prefix": [
 			"og: http://opy.me/ns#"
 		]
@@ -29,9 +29,9 @@
 	"menu": {
 		"main": [
 			{
-				"name": "Articles",
+				"name": "contact",
 				"weight": 10,
-				"URL": "/"
+				"URL": "http://cogneco.com/#contact"
 			}
 		]
 	}
