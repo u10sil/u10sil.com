@@ -31,7 +31,7 @@
 			{
 				"name": "contact",
 				"weight": 10,
-				"URL": "#Contact"
+				"URL": "/#contact"
 			}
 		]
 	}
