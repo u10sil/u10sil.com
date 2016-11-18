@@ -18,8 +18,8 @@
 			"css/layout.css",
 			"css/form.css"
 		],
-		"listmode": "title",
-		"frontpagemode": "title",
+		"listmode": "full",
+		"frontpagemode": "full",
 		"frontpagesection": "index",
 		"navigationinheader": false,
 		"prefix": [
@@ -31,7 +31,7 @@
 			{
 				"name": "contact",
 				"weight": 10,
-				"URL": "http://cogneco.com/#contact"
+				"URL": "#Contact"
 			}
 		]
 	}
