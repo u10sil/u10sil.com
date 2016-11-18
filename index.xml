@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>u10sil</title>
-    <link>http://u10sil.com/</link>
+    <link>http://u10sil.com/index.xml</link>
     <description>Recent content on u10sil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>

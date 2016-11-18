@@ -2,24 +2,24 @@
 body > header {
 	position: relative;
 	margin: 0 auto;
-	width: 100%;
-	min-height: 100vh;
+	width: auto;
+	height: 40vh;
 	text-align: center;
 }
 body > header > h1 {
 	position: absolute;
-	top: 20vh;
+	top: 10vh;
 	left: 25%;
 	width: 50%;
 	margin: 0 auto;
 }
 body > header > h1 > a {
-		margin: 0 auto;
-		max-width: 10em;
+	margin: 0 auto;
+	max-width: 10em;
 }
 body > header > h1 > a > img {
-	width: 100%;
-	height: auto;
+	width: auto;
+	max-height: 10vh;
 }
 body > header > p {
 	position: absolute;
@@ -27,6 +27,19 @@ body > header > p {
 	width: 100%;
 	padding: 1em;
 }
+/* .home header */
+.home > body > header {
+	min-height: 100vh;
+}
+.home > body > header > h1 {
+	top: 20vh;
+}
+.home > body > header > h1 > a > img {
+	width: 100%;
+	height: auto;
+	max-height: none;
+}
+
 /* nav */
 body > nav {
 	position: fixed;
