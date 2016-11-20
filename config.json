@@ -11,7 +11,7 @@
 	"theme": "hugo-theme-html5",
 	"params": {
 		"description": "Create your Business Software",
-		"logotype": "img/logotype.svg",
+		"logotype": "img/u10sil-logotype.svg",
 		"css": [
 			"css/text.css",
 			"css/color.css",

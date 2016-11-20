@@ -9,8 +9,8 @@ body > header {
 body > header > h1 {
 	position: absolute;
 	top: 10vh;
-	left: 25%;
-	width: 50%;
+	left: 15%;
+	width: 60%;
 	margin: 0 auto;
 }
 body > header > h1 > a {
@@ -39,7 +39,6 @@ body > header > p {
 	height: auto;
 	max-height: none;
 }
-
 /* nav */
 body > nav {
 	position: fixed;
